@@ -1,0 +1,22 @@
+{
+  "name": "rose-2024",
+  "version": "1.0.0",
+  "description": "A dedicated website to show prospective employers and professional connections who I am, what I'm looking for, and what value I can bring.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roselandroche/rose-2024.git"
+  },
+  "author": "Rose Landroche",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roselandroche/rose-2024/issues"
+  },
+  "homepage": "https://github.com/roselandroche/rose-2024#readme",
+  "dependencies": {
+    "styled-components": "^6.1.11"
+  }
+}
